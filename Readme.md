@@ -1,5 +1,9 @@
 # Indentity Level / Execution Level
 
+# Orginal Post
+[Explanation: What Is Exploiting Level?](https://v3rm.net/threads/explaination-what-are-exploit-levels.9072/)
+
+
 ## Introduction
 In Roblox exploiting, knowing the access levels and capabilities of different identities is crucial. This guide breaks down exploit levels, identities, and capabilities, explaining how they work within Roblox.
 
