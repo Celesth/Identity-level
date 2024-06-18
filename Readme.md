@@ -1,7 +1,7 @@
-# Understanding Roblox Exploit Levels and Capabilities
+# Indentity Level / Execution Level
 
 ## Introduction
-In Roblox scripting and exploiting, knowing the access levels and capabilities of different identities is crucial. This guide breaks down exploit levels, identities, and capabilities, explaining how they work within Roblox.
+In Roblox exploiting, knowing the access levels and capabilities of different identities is crucial. This guide breaks down exploit levels, identities, and capabilities, explaining how they work within Roblox.
 
 ## What Are Exploit Levels?
 
