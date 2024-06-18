@@ -1,4 +1,4 @@
-# Indentity Level / Execution Level
+# Identity Level / Execution Level
 
 # Orginal Post
 [Explanation: What Is Exploiting Level?](https://v3rm.net/threads/explaination-what-are-exploit-levels.9072/)
